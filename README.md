@@ -1,88 +1,99 @@
-⚡ Hey, I'm Logashree!
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7187F&center=true&vCenter=true&width=700&lines=Aspiring+AI+%26+ML+Engineer;Full-Stack+Developer;React+Native+Mobile+App+Developer;200%2B+LeetCode+%26+150%2B+GFG+Problems;Tech+Explorer+%7C+Problem+Solver+%7C+Innovator" /> </p>
-🌈 About Me
-Name: M. Logashree
-Role: Aspiring Software Developer & AI Engineer
-Focus: AI, ML, React Native, Full-Stack Development
-LeetCode: 200+ Problems
-GFG: 150+ Problems
-Passion: Building apps, solving problems, learning daily
-Goal: Amazon/Google in the next 2 years
-🌀 Tech Universe
-<div align="center">
-🚀 Languages
-Python | C | Java | C++ | JavaScript
+# Logashree Mohan
 
-🤖 AI / ML
+## About Me
+I am a 2nd-year Artificial Intelligence & Data Science student with a strong focus on building real-world software solutions. My passion lies in AI, Machine Learning, Full-Stack Development, and Mobile Development. I aim to secure a position at Amazon or Google within the next 2 years by consistently improving my skills and building scalable projects.
+
+**Key Highlights:**
+- Solved **200+ LeetCode problems** and **150+ GFG problems**  
+- Experience in **AI, ML, React Native, React.js, Node.js, Firebase, Supabase**  
+- Strong focus on **DSA, system design, and real-world project development**  
+
+---
+
+## Skills
+
+### Programming Languages
+Python | C | C++ | Java | JavaScript
+
+### AI / Machine Learning
 AI | Machine Learning | Data Science | IoT
 
-💻 Development
-React Native • React.js • Node.js • Supabase • Firebase • APIs
+### Development
+React Native | React.js | Node.js | Firebase | Supabase | REST APIs
 
-</div>
-🎯 What Makes Me Different?
-⭐ I build real-world products, not just practice apps
-⭐ I combine AI + Full-Stack + Mobile
-⭐ I focus on scalable architectures
-⭐ I solve DSA daily
-⭐ I love hackathons, challenges, competitions
-⭐ I am building my career with clarity + consistency
+### Tools & Platforms
+Git & GitHub | VS Code | Streamlit | Docker (basic)  
 
-🛠️ Experience
-🟣 Nullclass – Full Stack Intern (2025)
-Built Myntra E-commerce Mobile App using React Native (Expo)
+---
 
-Firebase / Supabase integrations
+## Experience
 
-State management: Context API + Redux
+**Nullclass – Full Stack Intern (2025)**  
+- Built Myntra E-commerce Mobile App using React Native (Expo)  
+- Integrated Firebase and Supabase for authentication & database  
+- Implemented state management using Context API + Redux  
 
-🟣 TechieHelp – AI Software Developer (2025)
-Created Eventra wedding planning platform
+**TechieHelp – AI Software Developer (2025)**  
+- Developed Eventra, a wedding planning platform  
+- Built dashboards, authentication, and APIs using React.js and Node.js  
+- Managed databases using Supabase and implemented business logic  
 
-Built dashboards, auth, APIs
+---
 
-Tech: React.js, Node.js, Supabase, JavaScript
+## Selected Projects
 
-🔥 Featured Projects
-🌸 Glow AI Care
-AI-based skin type detector + custom skincare recommendations
+- **GlowCare AI:** AI-based skin type detection and skincare recommendation system  
+- **Item-Return Connect:** Smart product return tracking system  
+- **Recycle Bin Store:** Reward-based recycling app  
+- **Smart AI Buddy:** Personal AI assistant for daily tasks  
+- **Blood Donor Registry:** Donor record and blood match system  
+- **Organ Donor Registry:** Organ donor and recipient management system  
 
-♻️ Recycle Bin Store
-Reward-based recycling mobile app
+Each project includes a fully functional app with UI, backend integration, and real-world utility.
 
-🩸 Blood Donor Registry
-Donor record + blood compatibility matching system
+---
 
-🧠 Smart AI Buddy
-Personal AI assistant for daily tasks
+## Achievements & Hackathons
+- IDEATHON Hackathon – Shortlisted  
+- Xplore.AI 24-Hour Hackathon – Finalist  
+- DNS HackElite’25 – Finalist  
+- Paranox 2.0 – Finalist  
 
-🏆 Achievements
-IDEATHON Hackathon – Shortlisted
+---
 
-Xplore.AI 24hr Hackathon – Finalist
+## Certifications & Courses
 
-DNS HackElite’25 – Finalist
+- **Generative AI Unleashing** – Infosys Springboard  
+- **Basics of Data Science** – UniAthena  
+- **CS205: Building with Artificial Intelligence** – Saylor Academy  
+- **What is Generative AI?** – LinkedIn  
+- **C++ Programming** – LearnTube.ai  
+- **Data Science and Analytics** – HP LIFE  
+- **Python Essential 1** – Cisco  
+- **Python Programming** – Praya Labs  
+- **AINNOVATION 2025: Azure Learning Challenge** – Microsoft  
+- **AINNOVATION 2025: AI Learning Challenge** – Microsoft  
+- **AINNOVATION 2025: Applied AI Learning Challenge** – Microsoft  
+- **Java SE 11: Strings & Primitive Data Types** – Infosys Springboard  
+- **NPTEL: Organizational Behaviour (Elite + Silver)**  
+- **NPTEL: Introduction to Internet of Things (Elite)**  
+- **Network Basics** – Cisco  
+- **Introduction to IoT** – Cisco  
 
-Paranox 2.0 – Finalist
+---
 
-📜 Certifications
-Infosys Springboard – Generative AI
+## Contact
+- **Email:** [logashreemohan2007@gmail.com](mailto:logashreemohan2007@gmail.com)  
+- **LinkedIn:** [M. Logashree](https://www.linkedin.com/in/m-logashree-471877328/)  
 
-Cisco – Python Essentials
+---
 
-HP Life – Data Science
+## GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=logashreemohan&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logashreemohan&layout=compact&theme=dark)  
 
-Microsoft – AINNOVATION 2025 Series
+---
 
-NPTEL – OB (Elite + Silver)
+**Professional Motto:**  
+*"Consistency and practical experience make ordinary students extraordinary."*
 
-NPTEL – IoT (Elite)
-
-🌐 Connect with Me
-<p align="center"> <a href="https://github.com/logashreemoha"> <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/m-logashree-471877328/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://leetcode.com/u/logashreemohan/"> <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /> </a> <a href="https://www.geeksforgeeks.org/user/logashreemcevv/"> <img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks" /> </a> </p>
-📊 GitHub Stats That Stand Out
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=logashreemoha&show_icons=true&theme=radical&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=logashreemoha&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logashreemoha&layout=compact&theme=radical&hide_border=true" /> </div>
-🌀 Fun Section: My Coding Vibes
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logashreemoha&theme=dracula" /> <img src="https://github-profile-trophy.vercel.app/?username=logashreemoha&theme=radical&margin-w=10" /> </p>
-⭐ Inspirational Line
-"Consistency makes ordinary students extraordinary."
