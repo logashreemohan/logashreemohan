@@ -47,7 +47,9 @@ Git & GitHub | VS Code | Streamlit | Docker (basic)
 - **Recycle Bin Store:** Reward-based recycling app  
 - **Smart AI Buddy:** Personal AI assistant for daily tasks  
 - **Blood Donor Registry:** Donor record and blood match system  
-- **Organ Donor Registry:** Organ donor and recipient management system  
+- **Organ Donor Registry:** Organ donor and recipient management system
+- **Uzhavan Thozhan:** An AI assistant that finds and applies government schemes for farmers automatically
+- **Freelance escrow blockchain master:** (current project)
 
 Each project includes a fully functional app with UI, backend integration, and real-world utility.
 
@@ -78,7 +80,10 @@ Each project includes a fully functional app with UI, backend integration, and r
 - **NPTEL: Organizational Behaviour (Elite + Silver)**  
 - **NPTEL: Introduction to Internet of Things (Elite)**  
 - **Network Basics** – Cisco  
-- **Introduction to IoT** – Cisco  
+- **Introduction to IoT** – Cisco
+- **aws educate Introduction to Generative AI**
+- **aws educate Machine Learning Foundations**
+- **aws educate cloud computing 101**
 
 ---
 
