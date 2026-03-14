@@ -1,11 +1,13 @@
 # Logashree Mohan
 
 ## About Me
-I am a 2nd-year Artificial Intelligence & Data Science student with a strong focus on building real-world software solutions. My passion lies in AI, Machine Learning, Full-Stack Development, and Mobile Development. I aim to secure a position at Amazon or Google within the next 2 years by consistently improving my skills and building scalable projects.
+I am a 2nd-year Artificial Intelligence & Data Science student with a strong focus on building real-world software solutions. My passion lies in AI, Machine Learning, Full-Stack Development, and Mobile Development. I aim to secure a position at Amazon or Google within the next 2 years by consistently improving my skills and building scalable projects.I am also actively exploring LLM-based systems and AI applications, including building AI assistants and chatbot-style applications using modern AI APIs.
+
+
 
 **Key Highlights:**
 - Solved **200+ LeetCode problems** and **150+ GFG problems**  
-- Experience in **AI, ML, React Native, React.js, Node.js, Firebase, Supabase**  
+- Experience in **AI / LLM systems, ML, React Native, React.js, Node.js, Firebase, Supabase**  
 - Strong focus on **DSA, system design, and real-world project development**  
 
 ---
@@ -16,10 +18,10 @@ I am a 2nd-year Artificial Intelligence & Data Science student with a strong foc
 Python | C | C++ | Java | JavaScript
 
 ### AI / Machine Learning
-AI | Machine Learning | Data Science | IoT
+AI | Machine Learning | Data Science | IoT | LLM
 
 ### Development
-React Native | React.js | Node.js | Firebase | Supabase | REST APIs
+React Native | React.js | Node.js | Firebase | Supabase | REST APIs | LLM / Openapi
 
 ### Tools & Platforms
 Git & GitHub | VS Code | Streamlit | Docker (basic)  
