@@ -59,7 +59,9 @@ Each project includes a fully functional app with UI, backend integration, and r
 - IDEATHON Hackathon – Shortlisted  
 - Xplore.AI 24-Hour Hackathon – Finalist  
 - DNS HackElite’25 – Finalist  
-- Paranox 2.0 – Finalist  
+- Paranox 2.0 – Finalist
+- Noob Hachfest -Honorary award
+- Ignite- Finalist
 
 ---
 
