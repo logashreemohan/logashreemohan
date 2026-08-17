@@ -1,7 +1,7 @@
 # Logashree Mohan
 
 ## About Me
-I am a 2nd-year Artificial Intelligence & Data Science student with a strong focus on building real-world software solutions. My passion lies in AI, Machine Learning, Full-Stack Development, and Mobile Development. I aim to secure a position at Amazon or Google within the next 2 years by consistently improving my skills and building scalable projects.I am also actively exploring LLM-based systems and AI applications, including building AI assistants and chatbot-style applications using modern AI APIs.
+I am a 3rd-year Artificial Intelligence & Data Science student with a strong focus on building real-world software solutions. My passion lies in AI, Machine Learning, Full-Stack Development, and Mobile Development. I aim to secure a position at Amazon or Google within the next 2 years by consistently improving my skills and building scalable projects.I am also actively exploring LLM-based systems and AI applications, including building AI assistants and chatbot-style applications using modern AI APIs.
 
 
 
